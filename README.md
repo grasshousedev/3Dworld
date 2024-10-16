@@ -8,8 +8,6 @@
     <a href="https://www.keepandshare.com/doc9/27780/manual-de-usuario-erp-laravel-pdf-2-2-meg?dn=y&dnad=y"><strong>Explorar documentación de usuario»</strong></a>
     <a href="https://www.keepandshare.com/doc9/27781/manual-tecnico-erp-laravel-pdf-1-9-meg?da=y"><strong>Explorar documentación técnica»</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/Jamir-boop/3Dworld/tree/master/screenshots">Demo Screenshots</a>
   </p>
 </div>
 <br />
